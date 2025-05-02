@@ -1,0 +1,14 @@
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/bin/Debug/net9.0/Day10
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/bin/Debug/net9.0/Day10.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/bin/Debug/net9.0/Day10.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/bin/Debug/net9.0/Day10.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/bin/Debug/net9.0/Day10.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/refint/Day10.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/Day10.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Day10/obj/Debug/net9.0/ref/Day10.dll
