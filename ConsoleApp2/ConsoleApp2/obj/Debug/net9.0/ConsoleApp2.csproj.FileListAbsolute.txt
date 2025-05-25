@@ -1,0 +1,15 @@
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.sourcelink.json
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
