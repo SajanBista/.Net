@@ -1,0 +1,15 @@
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/bin/Debug/net9.0/Abstract_Class
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/bin/Debug/net9.0/Abstract_Class.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/bin/Debug/net9.0/Abstract_Class.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/bin/Debug/net9.0/Abstract_Class.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/bin/Debug/net9.0/Abstract_Class.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.sourcelink.json
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/refint/Abstract_Class.dll
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/Abstract_Class.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/Abstract_Class/obj/Debug/net9.0/ref/Abstract_Class.dll

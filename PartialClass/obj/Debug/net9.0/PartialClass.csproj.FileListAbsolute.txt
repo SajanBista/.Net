@@ -1,0 +1,15 @@
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.sourcelink.json
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/bin/Debug/net9.0/PartialClass
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/bin/Debug/net9.0/PartialClass.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/bin/Debug/net9.0/PartialClass.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/bin/Debug/net9.0/PartialClass.dll
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/bin/Debug/net9.0/PartialClass.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.dll
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/refint/PartialClass.dll
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/PartialClass.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/PartialClass/obj/Debug/net9.0/ref/PartialClass.dll

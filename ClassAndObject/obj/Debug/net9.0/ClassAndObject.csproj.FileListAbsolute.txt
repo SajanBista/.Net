@@ -1,0 +1,15 @@
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/bin/Debug/net9.0/ClassAndObject
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/bin/Debug/net9.0/ClassAndObject.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/bin/Debug/net9.0/ClassAndObject.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/bin/Debug/net9.0/ClassAndObject.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/bin/Debug/net9.0/ClassAndObject.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.sourcelink.json
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/refint/ClassAndObject.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ClassAndObject.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ClassAndObject/obj/Debug/net9.0/ref/ClassAndObject.dll

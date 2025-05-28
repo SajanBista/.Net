@@ -1,0 +1,15 @@
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/bin/Debug/net9.0/ThisKeyword
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/bin/Debug/net9.0/ThisKeyword.deps.json
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/bin/Debug/net9.0/ThisKeyword.runtimeconfig.json
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/bin/Debug/net9.0/ThisKeyword.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/bin/Debug/net9.0/ThisKeyword.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.AssemblyInfoInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.AssemblyInfo.cs
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.csproj.CoreCompileInputs.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.sourcelink.json
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/refint/ThisKeyword.dll
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.pdb
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ThisKeyword.genruntimeconfig.cache
+/Users/sajanbista/Desktop/DotNet(C#)/ThisKeyword/ThisKeyword/obj/Debug/net9.0/ref/ThisKeyword.dll
