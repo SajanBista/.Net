@@ -1,0 +1,64 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]ogs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider settings
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+# NuGet package folder
+packages/
+# Uncomment if using the new .NET Core SDK style projects
+# to avoid committing dependencies
+# **/packages/*
+
+# Dotnet CLI
+.project.lock.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+wwwroot/
+
+# Others
+*.db
+*.sqlite
+*.bak
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Resharper files
+*.ReSharper
+*.DotSettings.user
+
+# Backup & temp files
+*.bak
+*.tmp
+*.old
