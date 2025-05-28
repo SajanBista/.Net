@@ -62,3 +62,10 @@ wwwroot/
 *.bak
 *.tmp
 *.old
+
+# Custom folders to ignore
+Constructor_backup/
+Day4/
+eNums/
+inheritance/
+postman/
