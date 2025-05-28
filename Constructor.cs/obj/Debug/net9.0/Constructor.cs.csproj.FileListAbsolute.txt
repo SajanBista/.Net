@@ -1,5 +1,0 @@
-/Users/sajanbista/Desktop/DotNet(C#)/Constructor.cs/obj/Debug/net9.0/Constructor.cs.GeneratedMSBuildEditorConfig.editorconfig
-/Users/sajanbista/Desktop/DotNet(C#)/Constructor.cs/obj/Debug/net9.0/Constructor.cs.AssemblyInfoInputs.cache
-/Users/sajanbista/Desktop/DotNet(C#)/Constructor.cs/obj/Debug/net9.0/Constructor.cs.AssemblyInfo.cs
-/Users/sajanbista/Desktop/DotNet(C#)/Constructor.cs/obj/Debug/net9.0/Constructor.cs.csproj.CoreCompileInputs.cache
-/Users/sajanbista/Desktop/DotNet(C#)/Constructor.cs/obj/Debug/net9.0/Constructor.cs.MvcApplicationPartsAssemblyInfo.cache
