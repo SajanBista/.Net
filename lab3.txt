@@ -1,0 +1,21 @@
+1. Demonstrate the Constructor and its types
+
+2. You are designing a simple class hierarchy in C# for a software system. Your task is to create two classes: Animal (base class) and Dog (derived class). You need to implement properties and inheritance, ensuring the following:
+Create a property Name in the Animal class.
+Create a property Breed in the Dog class.
+  Demonstrate the use of both auto-implemented properties and properties with backing fields.
+Implement by deriving the Dog class from the Animal class.
+Explain how you would apply it in C# (the concept, not the implementation, since C# does not support it directly).
+The Name property in the Animal class should have a private backing field.
+The Breed property in the Dog class should be auto-implemented.
+Demonstrate how the Dog class can inherit and access the Name property from the Animal class.
+Provide a brief explanation of why C# supports single inheritance but not multiple inheritance, and how it can be used to achieve a similar effect.
+3. Demonstrate Polymorphism, method overload, and overriding.
+4. Demonstrate binary and unary operator overloading
+5.  WAP to demonstrate a 2*2 matrix array and a jagged array.
+6. Create a C# inventory system that includes: Define Category (e.g., Electronics, Groceries). Create a sealed Item class with Name, Price, and Category properties. Implement a generic Inventory<T> class for Item, with methods to:
+Add items.
+Get items by category.
+Return a Dictionary<Category, List<Item>>.
+Use List<T> to store items. Organize items by category using a dictionary.
+ 7. Demonstrate Struct in C #

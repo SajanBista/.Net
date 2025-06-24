@@ -1,0 +1,6 @@
+Define a Constructor. Explain different types of constructors used in C # with examples.
+Define Inheritance.
+What is an array? Differentiate between rectangular and jagged arrays with examples.
+What is the interface? Explain with a suitable program how the interface can be used to perform multiple inheritance. 
+Difference between abstract class and interface? Write a program to Demonstrate an abstract class.
+ Explain the Generic class, List, Stack, and Queue with examples.
